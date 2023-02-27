@@ -1,0 +1,12 @@
+
+# Files created by editors
+.ztr-directory
+.ipynb_checkpoints
+
+# Library Files
+lib
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
