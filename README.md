@@ -1,4 +1,4 @@
 # i
 
-This is the fictional collaborative translation of the Book of Yi.
+This is the collaborative translation of the fictional Book of Yi.
 
